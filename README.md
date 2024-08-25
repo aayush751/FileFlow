@@ -25,7 +25,7 @@ The application serves an interface where users can see all the text files in th
 ## Getting Started
 1. Clone the repository:
    ```bash
-   git clone https://github.com/aayush751/file-explorer.git
+   git clone https://github.com/aayush751/FileFlow.git
 2. Install dependencies:
    ```bash
     npm install
